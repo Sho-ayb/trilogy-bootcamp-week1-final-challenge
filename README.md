@@ -44,7 +44,7 @@ https://sho-ayb.github.io/trilogy-bootcamp-week1-final-challenge/#social-media-m
 Screen shot of Horiseon website live
 ---
 
-![assets/images/Horiseon-website-snapshot]
+![Horiseon website snapshot](assets/images/Horiseon-website-snapshot.JPG)
 
 
 
