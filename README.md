@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # trilogy-bootcamp-week1-final-challenge
 
 Introduction
