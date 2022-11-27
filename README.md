@@ -41,7 +41,10 @@ Link to the Horisean website
 
 https://sho-ayb.github.io/trilogy-bootcamp-week1-final-challenge/#social-media-marketing
 
+Screen shot of Horiseon website live
+---
 
+![assets/images/Horiseon-website-snapshot]
 
 
 
